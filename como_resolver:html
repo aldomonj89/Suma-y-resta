@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Como se resuelve</title>
+</head>
+<body bgcolor="#F5DEB3">
+<center>
+<h1>Se resuelven de la siguiente manera:</h1>
+<p>Para calcular el determinante de una matriz, se utilizan diferentes métodos dependiendo del tamaño de la matriz (2x2, 3x3, etc.). </p>
+<p>Condición:
+Para sumar o restar matrices, deben tener el mismo número de filas y columnas. </p>
+<p>Procedimiento:
+Se suman o restan los elementos que están en la misma posición en cada matriz</p>
+
+<h3>Navegación:</h3>
+<p><a href="index.html">Inicio</a></p>
+<p><a href="pagina4.html">Página 4</a></p>
+</center>
+</body>
+</html>
