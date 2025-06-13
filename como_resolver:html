@@ -10,10 +10,10 @@
 Para sumar o restar matrices, deben tener el mismo número de filas y columnas. </p>
 <p>Procedimiento:
 Se suman o restan los elementos que están en la misma posición en cada matriz</p>
-
+<img src= "imagen4.png">
 <h3>Navegación:</h3>
 <p><a href="index.html">Inicio</a></p>
-<p><a href="pagina4.html">Página 4</a></p>
+<p><a href="suma_resta.html">Guias</a></p>
 </center>
 </body>
 </html>
